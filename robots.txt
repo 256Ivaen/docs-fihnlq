@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-rpp70j.juragan89.online/sitemap.xml
